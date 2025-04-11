@@ -1,0 +1,25 @@
+SliceNumberKey = 'slice'
+MetricKey = 'metric'
+JaccardKey = 'jaccard'
+DiceKey = 'dice'
+SAMScoreKey = 'sam_score'
+
+# SetImageTimeKey = 'set_image_time'
+PredictTimeKey = 'predict_time'
+# ElapsedTimeKey = 'time'
+
+SetVideoTimeKey = 'set_video_time'
+PredictVideoTimeKey = 'predict_video_time'
+ProcessVideoTimeKey = 'process_video_time'
+SetImageTimeKey = 'set_image_time'
+PredictImageTimeKey = 'predict_image_time'
+ProcessImageTimeKey = 'process_image_time'
+
+MetricKeys = [JaccardKey, DiceKey]
+MinKey = 'min'
+MaxKey = 'max'
+AverageKey = 'avg'
+StandardDeviationKey = 'std'
+ImageKey = 'image'
+SlicesKey = 'slices'
+FrameKey = 'frame'

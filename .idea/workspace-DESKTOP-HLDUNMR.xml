@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85862756-e609-4ea7-aa76-3fac38f46ea3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="msd_datasets_to_npz" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;00000083&quot;
+}</component>
+  <component name="ProjectId" id="2jxdEa3xvmggNw8dtOZHWMGH5Zr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.center_slice_selection.executor": "Run",
+    "Python.create_artificial_seed_frame.executor": "Run",
+    "Python.create_boxplot_covid.executor": "Run",
+    "Python.create_boxplot_montgomery.executor": "Run",
+    "Python.create_comparison_boxplot.executor": "Run",
+    "Python.create_sam_score_comparison_boxplot.executor": "Run",
+    "Python.delta_report.executor": "Run",
+    "Python.get_image_sizes.executor": "Run",
+    "Python.get_images_sizes.executor": "Run",
+    "Python.get_masked_slice.executor": "Run",
+    "Python.get_masks_per_image.executor": "Run",
+    "Python.hypothesis_test.executor": "Debug",
+    "Python.join_results.executor": "Run",
+    "Python.metric_per_slice.executor": "Run",
+    "Python.montgomery_to_jpgs.executor": "Debug",
+    "Python.montgomery_to_numpy.executor": "Run",
+    "Python.npz_to_jpgs.executor": "Run",
+    "Python.process_image: all (coronacases).executor": "Run",
+    "Python.process_image: all (montgomery).executor": "Run",
+    "Python.process_image: slice (coronacases).executor": "Run",
+    "Python.process_image: slice (montgomery).executor": "Run",
+    "Python.process_image: slice (radiopaedia).executor": "Run",
+    "Python.process_video.executor": "Run",
+    "Python.process_video_montgomery.executor": "Debug",
+    "Python.sam2_delta_report.executor": "Run",
+    "Python.sam2_montgomery_times.executor": "Debug",
+    "Python.sam2_times.executor": "Debug",
+    "Python.sam2_video.executor": "Run",
+    "Python.save_mask_sizes.executor": "Run",
+    "Python.sort_by_deltas.executor": "Run",
+    "Python.test_time.executor": "Run",
+    "Python.times.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "develop",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/andy/OneDrive - Universidade de Santiago de Compostela/Documents/i3lab/sam2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andy\OneDrive - Universidade de Santiago de Compostela\Documents\i3lab\sam2" />
+      <recent name="C:\Users\andy\OneDrive - Universidade de Santiago de Compostela\Documents\i3lab\sam2\comparison" />
+      <recent name="C:\Users\andy\OneDrive - Universidade de Santiago de Compostela\Documents\i3lab\sam2\plots" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andy\OneDrive - Universidade de Santiago de Compostela\Documents\i3lab\sam2\comparison" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.center_slice_selection">
+    <configuration name="create_sam_score_comparison_boxplot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sam2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comparison" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparison/create_sam_score_comparison_boxplot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_images_sizes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sam2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/get_images_sizes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process_image: slice (montgomery)" type="PythonConfigurationType" factoryName="Python" folderName="process_image">
+      <module name="sam2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DEBUG_INSERT_TITLE" value="0" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process_image.py" />
+      <option name="PARAMETERS" value="--image_file_path working_data/montgomery/image_MCUCXR_0090_0.npz --masks_file_path working_data/montgomery/masks_MCUCXR_0090_0.npz --use_bounding_box --debug" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sam2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.process_image: slice (montgomery)" />
+      <item itemvalue="Python.process_image: all (coronacases)" />
+      <item itemvalue="Python.process_image: all (montgomery)" />
+      <item itemvalue="Python.process_image: all (radiopaedia)" />
+      <item itemvalue="Python.process_image: slice (coronacases)" />
+      <item itemvalue="Python.process_image: slice (radiopaedia)" />
+      <item itemvalue="Python.montgomery_to_numpy" />
+      <item itemvalue="Python.nifty_to_numpy: image" />
+      <item itemvalue="Python.nifty_to_numpy: masks" />
+      <item itemvalue="Python.sam2_video" />
+      <item itemvalue="Python.center_slice_selection" />
+      <item itemvalue="Python.create_artificial_seed_frame" />
+      <item itemvalue="Python.create_boxplot_covid" />
+      <item itemvalue="Python.create_boxplot_montgomery" />
+      <item itemvalue="Python.create_comparison_boxplot" />
+      <item itemvalue="Python.create_gif" />
+      <item itemvalue="Python.get_masks_per_image" />
+      <item itemvalue="Python.hypothesis_test" />
+      <item itemvalue="Python.join_results" />
+      <item itemvalue="Python.metric_per_slice" />
+      <item itemvalue="Python.montgomery_to_jpgs" />
+      <item itemvalue="Python.npz_to_jpgs" />
+      <item itemvalue="Python.process_video" />
+      <item itemvalue="Python.sam2_delta_report" />
+      <item itemvalue="Python.sam2_montgomery_times" />
+      <item itemvalue="Python.sam2_times" />
+      <item itemvalue="Python.save_mask_sizes" />
+      <item itemvalue="Python.create_sam_score_comparison_boxplot" />
+      <item itemvalue="Python.get_images_sizes" />
+      <item itemvalue="Python.test_time" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_images_sizes" />
+        <item itemvalue="Python.create_sam_score_comparison_boxplot" />
+        <item itemvalue="Python.test_time" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85862756-e609-4ea7-aa76-3fac38f46ea3" name="Changes" comment="" />
+      <created>1722332551198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722332551198</updated>
+      <workItem from="1722332552348" duration="593000" />
+      <workItem from="1722333399584" duration="2391000" />
+      <workItem from="1722336095046" duration="1621000" />
+      <workItem from="1722353476094" duration="1650000" />
+      <workItem from="1722355330334" duration="1998000" />
+      <workItem from="1722406536124" duration="1694000" />
+      <workItem from="1722422807961" duration="2445000" />
+      <workItem from="1722449260197" duration="4595000" />
+      <workItem from="1722455407577" duration="672000" />
+      <workItem from="1722497011382" duration="12385000" />
+      <workItem from="1722584052346" duration="15474000" />
+      <workItem from="1722673632316" duration="8874000" />
+      <workItem from="1722703477587" duration="521000" />
+      <workItem from="1722711463702" duration="5698000" />
+      <workItem from="1722757022876" duration="20982000" />
+      <workItem from="1722850927825" duration="9038000" />
+      <workItem from="1722925294324" duration="23568000" />
+      <workItem from="1723014302480" duration="3642000" />
+      <workItem from="1723019266980" duration="1566000" />
+      <workItem from="1723023684326" duration="1342000" />
+      <workItem from="1723026068935" duration="718000" />
+      <workItem from="1723028937858" duration="3830000" />
+      <workItem from="1723040223710" duration="651000" />
+      <workItem from="1723054003636" duration="5234000" />
+      <workItem from="1723098467731" duration="16000" />
+      <workItem from="1723099072457" duration="3473000" />
+      <workItem from="1723102754293" duration="1989000" />
+      <workItem from="1723104836933" duration="3007000" />
+      <workItem from="1723114310730" duration="27181000" />
+      <workItem from="1723398054367" duration="3406000" />
+      <workItem from="1723401513104" duration="79000" />
+      <workItem from="1723401967266" duration="10400000" />
+      <workItem from="1723479062116" duration="4591000" />
+      <workItem from="1723484919938" duration="1604000" />
+      <workItem from="1723486767488" duration="143000" />
+      <workItem from="1723529450580" duration="7000" />
+      <workItem from="1723529819242" duration="114000" />
+      <workItem from="1723532193229" duration="756000" />
+      <workItem from="1723545813940" duration="4015000" />
+      <workItem from="1723566085436" duration="970000" />
+      <workItem from="1723567082730" duration="6928000" />
+      <workItem from="1723627429936" duration="91000" />
+      <workItem from="1723627536826" duration="14855000" />
+      <workItem from="1723719653058" duration="19114000" />
+      <workItem from="1723792548517" duration="2971000" />
+      <workItem from="1723804894165" duration="2492000" />
+      <workItem from="1723823462234" duration="656000" />
+      <workItem from="1723907340982" duration="149000" />
+      <workItem from="1723907498845" duration="1147000" />
+      <workItem from="1723908657772" duration="4445000" />
+      <workItem from="1723965174443" duration="3154000" />
+      <workItem from="1723991219323" duration="1536000" />
+      <workItem from="1723998521356" duration="6322000" />
+      <workItem from="1724049817370" duration="11846000" />
+      <workItem from="1724138923215" duration="21252000" />
+      <workItem from="1724396207448" duration="80000" />
+      <workItem from="1724396334352" duration="7682000" />
+      <workItem from="1724406306781" duration="13336000" />
+      <workItem from="1724485052651" duration="8607000" />
+      <workItem from="1724516602400" duration="4060000" />
+      <workItem from="1724523134016" duration="3922000" />
+      <workItem from="1724621455926" duration="5048000" />
+      <workItem from="1724739501732" duration="8672000" />
+      <workItem from="1724772759480" duration="1116000" />
+      <workItem from="1724825511210" duration="18000" />
+      <workItem from="1724826042957" duration="631000" />
+      <workItem from="1724833214344" duration="4673000" />
+      <workItem from="1724922918778" duration="289000" />
+      <workItem from="1724925401671" duration="422000" />
+      <workItem from="1724928989905" duration="1601000" />
+      <workItem from="1725006979101" duration="2876000" />
+      <workItem from="1725296862331" duration="869000" />
+      <workItem from="1725607781702" duration="2918000" />
+      <workItem from="1725615221741" duration="476000" />
+      <workItem from="1725991078462" duration="1828000" />
+      <workItem from="1726039000448" duration="1071000" />
+      <workItem from="1726167269382" duration="168000" />
+      <workItem from="1726167442846" duration="47000" />
+      <workItem from="1727359545493" duration="1060000" />
+      <workItem from="1727776052426" duration="856000" />
+      <workItem from="1728044696440" duration="659000" />
+      <workItem from="1729180678132" duration="931000" />
+      <workItem from="1729434601146" duration="967000" />
+      <workItem from="1729593960309" duration="669000" />
+      <workItem from="1729683222474" duration="3247000" />
+      <workItem from="1729697802838" duration="1288000" />
+      <workItem from="1729783595049" duration="2497000" />
+      <workItem from="1729874166032" duration="19000" />
+      <workItem from="1729874286121" duration="95000" />
+      <workItem from="1729939743608" duration="1838000" />
+      <workItem from="1730020105359" duration="2242000" />
+      <workItem from="1741193022910" duration="1336000" />
+      <workItem from="1741252734319" duration="14000" />
+      <workItem from="1741253465418" duration="4480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plots/create_boxplot_montgomery.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/comparison/hypothesis_test.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sam2$process_video_montgomery.coverage" NAME="process_video_montgomery Coverage Results" MODIFIED="1724080120580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$get_image_sizes.coverage" NAME="get_images_sizes Coverage Results" MODIFIED="1723968151078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$process_image__slice__coronacases_.coverage" NAME="process_image: slice (coronacases) Coverage Results" MODIFIED="1724623763242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$create_sam_score_comparison_boxplot.coverage" NAME="create_sam_score_comparison_boxplot Coverage Results" MODIFIED="1723226048925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison" />
+    <SUITE FILE_PATH="coverage/sam2$process_image__all__montgomery_.coverage" NAME="process_image: all (montgomery) Coverage Results" MODIFIED="1723105555420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$get_masked_slice.coverage" NAME="get_masked_slice Coverage Results" MODIFIED="1724622486435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$montgomery_to_numpy.coverage" NAME="montgomery_to_numpy Coverage Results" MODIFIED="1722335864465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$montgomery_to_jpgs.coverage" NAME="montgomery_to_jpgs Coverage Results" MODIFIED="1724078483749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$times.coverage" NAME="sam2_times Coverage Results" MODIFIED="1723039920480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison" />
+    <SUITE FILE_PATH="coverage/sam2$create_comparison_boxplot.coverage" NAME="create_comparison_boxplot Coverage Results" MODIFIED="1725014770079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\andy\OneDrive - Universidade de Santiago de Compostela\Documents\i3lab\sam2" />
+    <SUITE FILE_PATH="coverage/sam2$hypothesis_test.coverage" NAME="hypothesis_test Coverage Results" MODIFIED="1723402137998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison" />
+    <SUITE FILE_PATH="coverage/sam2$get_masks_per_image.coverage" NAME="get_masks_per_image Coverage Results" MODIFIED="1724519679576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$process_image__slice__montgomery_.coverage" NAME="process_image: slice (montgomery) Coverage Results" MODIFIED="1724624423542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$process_image__slice__radiopaedia_.coverage" NAME="process_image: slice (radiopaedia) Coverage Results" MODIFIED="1724624037677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$sam2_delta_report.coverage" NAME="sam2_delta_report Coverage Results" MODIFIED="1724740908724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$metric_per_slice.coverage" NAME="metric_per_slice Coverage Results" MODIFIED="1724005353856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$npz_to_jpgs.coverage" NAME="npz_to_jpgs Coverage Results" MODIFIED="1724426990597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$process_image__all__coronacases_.coverage" NAME="process_image: all (coronacases) Coverage Results" MODIFIED="1723017314359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$process_video.coverage" NAME="process_video Coverage Results" MODIFIED="1724510852859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$center_slice_selection.coverage" NAME="center_slice_selection Coverage Results" MODIFIED="1725297062219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$create_boxplot_covid.coverage" NAME="create_boxplot_covid Coverage Results" MODIFIED="1722681236151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$test_time.coverage" NAME="test_time Coverage Results" MODIFIED="1723017649767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/sam2$sam2_montgomery_times.coverage" NAME="sam2_montgomery_times Coverage Results" MODIFIED="1723278961548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison" />
+    <SUITE FILE_PATH="coverage/sam2$create_artificial_seed_frame.coverage" NAME="create_artificial_seed_frame Coverage Results" MODIFIED="1724525520728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$save_mask_sizes.coverage" NAME="save_mask_sizes Coverage Results" MODIFIED="1724740815742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$sort_by_deltas.coverage" NAME="sam2_delta_report Coverage Results" MODIFIED="1722795090859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison" />
+    <SUITE FILE_PATH="coverage/sam2$create_boxplot_montgomery.coverage" NAME="create_boxplot_montgomery Coverage Results" MODIFIED="1722680923576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sam2$sam2_video.coverage" NAME="sam2_video Coverage Results" MODIFIED="1723483677602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiments" />
+    <SUITE FILE_PATH="coverage/sam2$sam2_times.coverage" NAME="sam2_times Coverage Results" MODIFIED="1723278967183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison" />
+    <SUITE FILE_PATH="coverage/sam2$join_results.coverage" NAME="join_results Coverage Results" MODIFIED="1724516706488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

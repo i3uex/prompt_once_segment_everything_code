@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Gutiérrez
+    given-names: Juan D.
+  - family-names: Delgado
+    given-names: Emilio
+  - family-names: Breuer
+    given-names: Carlos
+  - family-names: Conejero
+    given-names: José M.
+  - family-names: and Rodriguez-Echeverria
+    given-names: Roberto
+title: 'Prompt Once, Segment Everything: Leveraging SAM 2 Potential for Infinite Medical Image Segmentation With a Single Prompt'
+version: 1.0.0
+doi: 10.1000/182
+date-released: '2025-04-11'
+preferred-citation:
+  authors:
+    - family-names: Gutiérrez
+      given-names: Juan D.
+    - family-names: Delgado
+      given-names: Emilio
+    - family-names: Breuer
+      given-names: Carlos
+    - family-names: Conejero
+      given-names: José M.
+    - family-names: and Rodriguez-Echeverria
+      given-names: Roberto
+  title: 'Prompt Once, Segment Everything: Leveraging SAM 2 Potential for Infinite Medical Image Segmentation With a Single Prompt'
+  doi: 10.1000/182
+  type: article-journal
+  pages: 1-1
+  year: '2025'
+  conference: {}
+  publisher: {}
