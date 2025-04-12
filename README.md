@@ -118,7 +118,7 @@ Although this project has been developed with PyCharm on Windows, taking advanta
 7. Execute the shell script **scripts/download_model_checkpoints.sh** to get SAM's model checkpoints:
 
     ```shell
-    $ scripts/download_checkpoints.sh
+    $ scripts/download_model_checkpoints.sh
     ```
 
 8. Configure PyCharm. If you are working on Windows, make sure you use WSL and that your interpreter is also based on WSL.
