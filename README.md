@@ -204,6 +204,11 @@ Although this project has been developed with PyCharm on Windows, taking advanta
 ## Datasets
 
 This project works with two datasets: "COVID-19 CT Lung and Infection Segmentation Dataset" and "Montgomery County X-ray Set".
+In order to properly download the datasets, you must have `unzip` installed on your system. If you don't have it, you can install it with the following command:
+
+```shell
+sudo apt install unzip
+```
 
 ### COVID-19 CT Lung and Infection Segmentation Dataset
 
